@@ -1,0 +1,55 @@
+﻿body {
+    background-color: #eeeeee;
+}
+
+/*
+    BEGIN HEADER STYLES
+*/
+
+input {
+    width: 400px;
+}
+
+.warning-text {
+    color: orangered;
+    border: 1px solid red;
+    text-align: center;
+    font-size: 16px;
+}
+
+
+
+#loginForm {
+    border: 1px solid red;
+}
+
+#loginForm input {
+    border: 1px solid #000;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#loginForm .control {
+    margin-bottom: 10px;
+}
+
+
+/*
+    END HEADER STYLES
+*/
+
+
+
+
+
+/* website footer */
+
+/* website footer */
+
+
+#btnLogin {
+    position: relative;
+    left: 100px;
+    top: 100px;
+    
+}
